@@ -1,0 +1,11 @@
+.main{
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    top: -100%;
+    left: 40%;
+    background-color: yellow;
+}
+.active{
+    top:40% ;
+}
